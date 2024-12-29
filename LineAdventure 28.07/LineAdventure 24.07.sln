@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAdventure 24.07.CSharp.Plugins", "LineAdventure 24.07.CSharp.Plugins.csproj", "{4578F97A-172E-CBF9-1AF4-76842AA698E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAdventure 24.07.CSharp", "LineAdventure 24.07.CSharp.csproj", "{E98D8FA6-E79A-1454-8B2F-39A16845A4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineAdventure 24.07.CSharp.Editor", "LineAdventure 24.07.CSharp.Editor.csproj", "{B918098C-37E3-80F9-7B58-0BE1B0C69387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4578F97A-172E-CBF9-1AF4-76842AA698E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4578F97A-172E-CBF9-1AF4-76842AA698E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4578F97A-172E-CBF9-1AF4-76842AA698E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4578F97A-172E-CBF9-1AF4-76842AA698E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98D8FA6-E79A-1454-8B2F-39A16845A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98D8FA6-E79A-1454-8B2F-39A16845A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98D8FA6-E79A-1454-8B2F-39A16845A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98D8FA6-E79A-1454-8B2F-39A16845A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B918098C-37E3-80F9-7B58-0BE1B0C69387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B918098C-37E3-80F9-7B58-0BE1B0C69387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B918098C-37E3-80F9-7B58-0BE1B0C69387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B918098C-37E3-80F9-7B58-0BE1B0C69387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
